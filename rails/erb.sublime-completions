@@ -1,0 +1,7 @@
+{
+  "scope": "text.html.ruby",
+  "completions":
+  [
+    { "trigger": "rd", "contents": "<% require \"debugger\"; debugger #TODO: remove this line %>" }
+  ]
+}

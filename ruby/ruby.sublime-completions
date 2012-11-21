@@ -1,0 +1,7 @@
+{
+  "scope": "source.ruby",
+  "completions":
+  [
+    { "trigger": "rd", "contents": "require \"debugger\"; debugger; nil #TODO: remove this line" }
+  ]
+}
